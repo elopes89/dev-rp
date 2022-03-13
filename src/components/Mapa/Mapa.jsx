@@ -12,7 +12,6 @@ import "leaflet/dist/leaflet.css";
 function Mapa() {
   const rio = [-22.9035, -43.2096];
   const floripa = [-27.5969, -48.5495]
-  // const rio2 = [usuario.this.state.login, -43.2096];
   
   const miami = [25.761681, -80.191788]
   const navigate = useNavigate();
